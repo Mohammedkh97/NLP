@@ -1,0 +1,2112 @@
+,0
+0,business
+1,software
+2,project management
+3,marketing
+4,engineering
+5,design
+6,testing
+7,data analysis
+8,material
+9,histogram
+10,component
+13,query language
+14,database
+15,machine learning
+16,computer science
+17,android
+18,mobile
+20,javascript
+24,deployment
+25,system integration
+29,documentation
+33,software engineering
+36,analytics
+39,finance
+42,python
+45,java
+46,security
+51,tableau
+53,scripting language
+56,visualization
+57,business intelligence
+65,support
+72,collaboration
+74,ambiguity
+75,ruby
+80,google
+82,None
+85,algorithm
+86,big data
+90,data structure
+92,perl
+94,linux
+97,operating system
+98,cloud storage
+99,shell
+101,mechanical engineering
+102,electrical engineering
+105,computer engineering
+107,schedule
+114,bayesian inference
+118,artificial intelligence
+120,programming language
+122,framework
+124,front end
+127,azure
+129,workload
+143,information management
+151,web server
+154,data mining
+158,server
+163,data management
+178,mysql
+195,relational database
+197,email marketing
+199,medium
+200,data warehouse
+207,hadoop
+208,workflow
+209,query optimization
+212,impala
+225,file system
+227,message passing
+228,docker
+230,kubernetes
+238,natural language processing
+243,objective c
+248,information retrieval
+282,library
+283,unity
+284,opengl
+287,publishing
+289,source code
+306,google analytics
+307,advertising
+308,piwik
+324,content delivery network
+328,biomedical engineering
+335,chrome
+341,tensorflow
+344,database design
+347,rabbitmq
+350,mongodb
+351,content management
+353,cassandra
+367,authentication
+369,encryption
+372,ajax
+375,dash
+378,industrial engineering
+394,knowledge management
+400,high availability
+407,nosql
+409,data processing
+421,computer architecture
+472,user interface
+477,asp net
+489,computer vision
+492,image processing
+495,bash
+500,monitoring
+538,debugging
+539,compiler
+555,formal verification
+572,data modeling
+574,telephony
+589,specification
+591,polymer
+593,chemical engineering
+611,process engineering
+618,data acquisition
+625,embedded system
+627,electronic engineering
+662,commerce
+761,business process
+770,syntax
+775,semantics
+777,nlp
+785,process management
+791,flask
+795,web service
+806,django
+820,box
+833,shared memory
+835,fabric
+838,domain knowledge
+862,hibernate
+873,oracle
+879,accounting
+913,data science
+918,data center
+922,tower
+928,wireless
+929,router
+930,local area network
+962,scalability
+1001,continuous integration
+1054,training set
+1057,inference
+1089,swift
+1102,g suite
+1125,terraform
+1127,ansible
+1131,jenkins
+1132,certificate
+1134,chef
+1145,network topology
+1157,angular
+1177,devops
+1248,routing protocol
+1251,network security
+1262,interaction
+1386,wide area network
+1409,code review
+1437,web app
+1498,agile project management
+1513,codec
+1543,signal processing
+1557,simulation
+1563,frequency domain
+1564,mode
+1565,input device
+1566,time domain
+1641,colorimetry
+1688,microprocessor
+1703,manufacturing engineering
+1865,numpy
+1886,broadcasting
+1906,middleware
+1917,search engine
+1943,segment
+1970,amp
+2089,civil engineering
+2091,mobile computing
+2149,data visualization
+2345,data quality
+2370,ecommerce
+2430,customer relationship management
+2461,optimizely
+2464,google tag manager
+2468,bootstrap
+2712,wireless network
+2779,knowledge base
+2844,scikit learn
+2920,task management
+2976,business administration
+3003,graphic design
+3045,google app engine
+3049,angularjs
+3065,framer
+3067,adobe photoshop
+3071,adobe illustrator
+3073,sketch
+3077,marketing automation
+3120,ranking
+3154,play
+3260,segmentation
+3396,game engine
+3477,version control system
+3481,git
+3540,composer
+3571,material design
+3572,augmented reality
+3576,virtual reality
+3584,user profile
+3653,ember
+3684,android sdk
+3767,natural language
+3783,xcode
+3862,localization
+3919,data extraction
+4201,multivariate analysis
+4363,level set
+4411,ml
+4472,financial system
+4576,complex system
+4587,residual
+4694,actuarial science
+4728,google drive
+4862,application programming interface
+4909,tracking system
+5045,distributed computing
+5183,access control
+0,consistency model
+1,network architecture
+2,uglifyjs
+3,managed memcache
+4,noisy data
+5,mobx
+6,mobility management
+7,central processing unit
+8,hipchat
+9,data compression
+10,communications sdk
+11,adaptive routing
+12,graphite
+13,sourcetree
+14,communication in small groups
+15,sentry
+16,fragmentation computing
+17,line-of-sight
+18,lookup table
+21,kanban for github issues
+22,denial of service attack
+23,influxdb
+25,hogan.js
+26,point spread function
+27,spread spectrum
+28,underscore
+29,gearman
+30,apiary
+31,logic synthesis
+32,nativescript
+33,mobile database
+34,react
+35,traffic engineering
+36,cross platform mobile tools
+37,random effects model
+38,field of view
+39,automated theorem proving
+40,algolia
+41,faceted classification
+42,data validation
+44,geographic information retrieval
+46,ant design
+47,coding social sciences
+48,fuzzy logic
+49,.net
+50,common object request broker architecture
+51,monero
+53,grape
+54,express js
+55,language parsing
+56,international trade
+57,information discovery
+58,divide and conquer algorithms
+59,infrastructure build tools
+60,survey widget
+61,kernel linear algebra
+62,guzzle
+64,redis cloud
+65,bootswatch
+66,location-based service
+67,transition system
+68,image registration
+69,prestashop
+70,gulp
+71,time to market
+72,optical disc
+73,lucene
+74,p system
+75,text box
+76,laravel
+77,look-ahead
+78,linear prediction
+79,gitlab pages
+81,rocket
+82,codebook
+83,ffmpeg
+84,gtp'
+85,flow type
+86,rails
+87,coffeescript
+88,application specific integrated circuit
+89,artificial neural network
+90,incremental learning
+91,standard ml
+92,supervised learning
+93,arch linux
+94,text retrieval conference
+95,field-programmable gate array
+96,semi supervised learning
+97,amazon dynamodb
+98,pusher
+99,graph databases
+100,symmetric multiprocessor system
+101,actuator
+103,nitrous io
+104,data exchange
+105,communication complexity
+106,knowledge modeling
+107,redux js
+108,computer graphics
+109,gatsby
+110,namecheap
+111,object detection
+112,mastodon
+113,range query data structures
+114,numerical stability
+115,css
+116,live reloading
+117,cryptocurrency
+118,continuum design consultancy
+119,cypress
+122,puppeteer
+123,ibm - api connect
+124,feature detection
+125,management science
+127,amazon vpc
+128,vuex
+129,graphql
+130,npm
+131,predictive value of tests
+132,julia
+133,travis ci
+134,cross validation
+136,resource allocation
+137,aws elastic beanstalk
+138,couchbase
+139,nightwatchjs
+140,rancher
+141,airtable
+142,cross platform mobile development
+143,feature vector
+145,flutter
+147,gatling
+148,system testing
+149,interpolation
+150,windows
+151,sonar
+152,document management system
+153,optical flow
+154,document collaboration
+155,1password
+156,landing pages
+157,canonical correlation
+158,mobile radio
+159,browser testing
+160,computer hardware
+161,azure machine learning
+162,aws codedeploy
+163,coveralls
+164,model checking
+165,software defined radio
+167,gluon
+168,backbone js
+169,brute-force search
+170,logic programming
+172,"build, test, deploy"
+173,marine engineering
+174,phoenix framework
+176,photogrammetry
+177,computability
+178,node js process manager
+179,eye tracking
+181,stars
+183,html5
+184,packer
+185,functional programming
+186,sliding window protocol
+187,heap
+188,strips
+189,internetworking
+190,google scholar and academic libraries
+191,shape analysis digital geometry
+192,stemming
+194,mongodb stitch
+195,synthetic aperture radar
+196,blockchain
+197,nsq
+198,library science
+199,amazon rds for aurora
+200,amazon ses
+201,information flow information theory
+202,create react native app
+203,release
+204,gradle
+205,yii
+206,bulma
+207,web app builders
+209,viterbi algorithm
+210,headless browsers
+211,copy protection
+212,hazelcast
+213,nitrous.io
+214,scale space
+215,stereopsis
+216,mailgun
+218,greedy algorithm
+219,lxc
+220,information extraction
+221,apache ant
+222,fastlane
+223,kalman filter
+224,web servers
+225,microframeworks backend
+226,nomad
+227,design for testing
+228,apigee
+229,motion analysis
+230,dependency management
+231,liquid crystal display
+232,invision
+233,human visual system model
+234,react storybook
+235,d3.js
+236,high level programming language
+237,hubspot
+238,yeoman
+239,c++
+240,stream processing
+241,transport layer
+243,telecommunications network
+244,uppy
+245, net
+246,eslint
+247,drone.io
+248,critical mass software engineering
+249,go.cd
+250,wimax
+251,crashlytics
+252,django rest framework
+253,fabric by twitter
+254,hapi
+255,network management
+256,wakatime
+257,ember.js
+258,record linkage
+259,tf–idf
+260,knapsack problem
+261,keyword extraction
+262,zend framework
+263,stackdriver
+264,mandrill
+265,buffer
+266,conceptual model
+268,discrete cosine transform
+269,storm
+270,dempster–shafer theory
+271,deductive database
+272,critical section
+273,akka
+276,spree
+277,information integration
+278,rubymine
+279,metis
+280,network layer
+281,linked data
+282,perl 6
+284,help desk
+285,clinicalkey
+286,password management
+287,sass
+288,javascript mvc frameworks
+289,queue
+290,dynamic programming
+293,semantic ui react
+294,shift register
+295,layout engine
+296,controlled vocabulary
+297,domain model
+299,enterprise system
+300,amazon elasticsearch service
+301,telecommunications
+302,softlayer
+303,codeigniter
+304,growbag
+305,communications protocol
+306,hybrid system
+307,zoho crm
+308,lambda calculus
+309,conventional pci
+310,process calculus
+311,temporal database
+312,mathematical logic
+313,load balancing computing
+314,tools for github
+315,web service automation
+316,user feedback as a service
+317,vue js
+319,sequential logic
+320,brute force search
+324,overlay network
+325,crowdsourcing
+326,css pre-processors / extensions
+327,front-end frameworks
+328,swiftype
+329,react js boilerplate
+331,read-write memory
+332,linear discriminant analysis
+333,machine learning tools
+334,javascript testing framework
+335,unreal engine
+336,phabricator
+337,batch processing
+338,genetic algorithm
+339,amazon ebs
+340,lua
+341,figure of merit
+342,automaton
+344,echo
+345,google cloud sql
+346,devdocs
+347,round trip delay time
+348,open source service discovery
+349,abstract interpretation
+350,linear model
+351,mean shift
+352,google cloud memorystore
+354,concurrency
+356,top-down and bottom-up design
+357,nats
+358,grails
+359,grafana
+360,topic maps
+361,phonegap
+362,mvc tools
+363,real time data processing
+364,gist
+366,logical framework
+367,industrial organization
+368,lodash
+370,ifttt
+371,social media tools
+372,aws iam
+373,nuxt
+374,data pre-processing
+375,low pass filter
+376,solr
+377,doctrine 2
+378,text processing
+379,classical logic
+380,operations research
+381,gitlab
+382,wordnet
+383,synthetic data
+384,geotechnical engineering
+385,angular 2
+386,boolean expression
+388,image resolution
+389,nlu
+390,hockeyapp
+391,mailjet
+392,compose
+393,word sense disambiguation
+394,self-organization
+395,engineering drawing
+396,discrete event simulation
+397,prolog
+398,distributed data store
+399,email testing
+400,mixpanel
+401,waste management
+402,heatmap analytics
+404,image analysis api
+405,multicast
+406,program analysis
+407,business dashboards
+408,capybara
+409,virtual circuit
+410,image retrieval
+411,magento
+412,next generation network
+413,activemq
+414,computer file
+415,pulse signal processing
+416,cloud functions for firebase
+417,mobile continuous integration
+418,fingerprint recognition
+420,ionic
+422,decision problem
+424,matlab
+425,relative record data set
+426,scala
+430,trecvid
+431,pattern matching
+434,caddy
+435,quantization signal processing
+436,bitbucket
+438,exact algorithm
+439,region of interest
+441,twilio
+442,pubnub
+443,aws elastic load balancing elb
+444,digital signature
+445,mobile station
+446,latent semantic indexing
+447,sequential pattern mining
+448,semantic web stack
+449,non-volatile memory
+450,pico-8
+452,integrated services digital network
+453,deployment as a service
+454,findability
+455,framework7
+456,fastly
+457,mustache
+458,requirejs
+459,voice over ip
+460,supervisory control
+461,distributed memory
+462,reachability
+463,cloud access management
+464,gitbucket
+465,expander graph
+466,atom
+467,data structures
+468,realtime backend   api
+469,title search
+470,base station
+471,helm
+472,statistical classification
+473,hogan js
+474,ios
+475,kotlin
+476,analysis of variance
+477,stylus
+478,motion compensation
+479,latex
+480,semantic ui
+481,postman
+482,knowledge retrieval
+483,motion detection
+484,webpack
+485,cloud firestore
+486,amazon kinesis firehose
+487,location based service
+488,grpc
+490,ember js
+491,mobile analytics
+492,self management
+493,theoretical computer science
+494,computer security
+495,mongolab
+496,svn subversion
+497,redux
+499,passenger
+500,spreadsheets as a backend
+501,mariadb
+502,erlang
+503,response time
+505,sidekiq
+506,"support, sales, and marketing"
+507,group chat & notifications
+508,sql
+509,result set
+510,natural language understanding
+511,model-based reasoning
+512,enzyme
+513,engineering ethics
+514,mutual exclusion
+515,serverless
+516,node networking
+517,seesaw
+518,meteor
+519,amazon web services
+520,real-time data processing
+521,computer programming
+522,concurrent computing
+523,emotion
+524,regular language
+525,lottie
+526,uptime robot
+527,brackets
+529,visual studio team services
+530,ai
+531,database security
+532,mixture model
+534,clef
+535,latent dirichlet allocation
+537,d3 js
+538,prometheus
+539,amazon route 53
+540,insomnia rest client
+541,path analysis statistics
+542,flurry
+543,github api
+544,edit distance
+545,file uploads
+546,espace
+547,operations management
+548,program transformation
+549,logic in computer science
+550,thresholding
+551,information retrieval applications
+552,control reconfiguration
+553,asp.net
+554,decision support system
+555,parcel
+556,sails js
+558,real time operating system
+559,patent visualisation
+560,bibliometrics
+561,active shape model
+562,document retrieval
+564,geospatial analysis
+565,architectural engineering
+566,optical character recognition
+567,mobile backend
+569,confirmatory factor analysis
+570,object document mapper odm
+571,bibliographic database
+573,distance transform
+574,go cd
+575,mobile robot
+576,xamarin
+577,screen sharing
+578,spectrogram
+579,containers as a service
+580,datalog
+581,intercom
+582,website monitoring
+583,pattern recognition psychology
+584,digital filter
+585,faceted search
+586,distributed file system
+587,brunch
+588,flash memory
+589,realtime analytics
+590,middleman
+592,aws codecommit
+593,link relation
+594,access network
+595,apollo
+596,dropbox
+597,agricultural engineering
+598,cross-validation
+599,case-based reasoning
+600,adaptive system
+601,collision
+602,jquery ui
+603,software-defined radio
+604,risk analysis engineering
+605,realtime backend / api
+606,speckle pattern
+607,automated reasoning
+608,remote procedure call
+609,serverless   task processing
+610,woopra
+611,combinatorial optimization
+613,compressed sensing
+614,hierarchical database model
+616,wavelength-division multiplexing
+617,amazon eks
+618,ir evaluation
+619,visual studio
+620,immutable js
+621,grunt
+622,search as a service
+623,floating point
+624,browserify
+625,http
+626,disqus
+627,critical path method
+628,mobile push messaging
+629,named entity
+630,static timing analysis
+631,ethereum
+633,aws cloudformation
+635,airflow
+636,mongodb atlas
+637,secret sharing
+638,prognostics
+639,propagation delay
+641,spatial frequency
+642,network simulation
+643,image quality
+644,denial-of-service attack
+645,cloud ide
+646,port computer networking
+647,surge
+648,linear programming
+649,database tools
+650,communications system
+652,clubhouse
+653,rspec
+654,sqlalchemy
+655,highcharts
+656,body text
+657,handover
+658,google cloud storage
+661,mapping apis
+662,node.js
+663,php
+664,hybrid algorithm
+665,software agent
+666,source code management desktop apps
+667,natural deduction
+668,nim
+669,thread computing
+670,zeplin
+671,google sheets
+672,apache maven
+673,computational geometry
+674,fedora
+675,robustness computer science
+676,nuclear engineering
+677,phpstorm
+678,eclipse
+679,mesosphere
+680,front and back ends
+681,motion estimation
+682,fault tolerance
+683,machine learning as a service
+684,awesome lists
+685,breadth-first search
+686,computability theory
+688,redis hosting
+689,haproxy
+690,google app maker
+691,scaleway
+692,self organization
+693,laravel forge
+694,laravel homestead
+695,compass
+696,babel
+697,sensor array
+698,browsersync
+699,customer analytics
+701,qunit
+702,elm
+703,etcd
+704,data pre processing
+705,language model
+706,deep learning
+707,traffic model
+708,sqlite
+709,couchdb
+710,selenium
+711,secure multi-party computation
+712,azure storage
+713,composite number
+714,tailwind css
+716,redux saga
+717,electroencephalography
+718,phpunit
+719,postgresql as a service
+720,protractor
+721,marionette
+722,electronic data interchange
+723,persistence computer science
+724,classifier linguistics
+725,redux-saga
+726,bayesian probability
+727,cloudflare
+728,cross correlation
+729,bot
+730,rust
+731,javascript framework components
+732,read write memory
+734,independent component analysis
+736,economic policy
+737,ibm db2
+738,loggly
+739,power control
+740,netlify
+741,celery
+743,google cloud dns
+744,cloud monitoring
+745,semantic data model
+746,languages
+747,intuitionistic logic
+748,question answering
+749,adaboost
+750,mailchimp
+751,onsen ui
+752,relay
+753,zookeeper
+754,external data representation
+755,gradient descent
+756,pushdown automaton
+757,tree structure
+758,discrete logarithm
+759,computation
+760,linode
+761,cloud content management system
+762,error concealment
+763,react navigation
+764,wagtail
+765,codeship
+766,conditional random field
+767,markov chain
+769,visual basic
+770,remote procedure call rpc
+771,hhvm hiphop virtual machine
+772,knockoutjs
+773,regular expression
+774,flyway
+775,kong
+776,workflow manager
+778,linear search
+779,link layer
+780,multilevel model
+781,vuetify
+782,heroku
+783,nosql database as a service
+784,neovim
+785,shared resource
+786,semantic computing
+787,computer network
+788,material ui
+789,autonomic computing
+790,recurly
+791,active appearance model
+792,certificate authority
+793,funnel analysis analytics
+795,dynamic range
+796,boolean algebra
+797,hidden markov model
+798,aerospike
+799,hugo
+801,confluence
+802,shippable
+803,rackspace cloud servers
+804,computational mathematics
+805,scientometrics
+806,codecov
+807,payments
+808,performance prediction
+809,customer support chat
+810,rethinkdb
+811,load balancer   reverse proxy
+812,wavefront
+813,mobile error monitoring
+814,beta testing / mobile app distribution
+815,canonical model
+817,self hosted blogging / cms
+818,slack
+820,website builder
+821,automatic taxonomy induction
+822,braintree
+823,finite-state machine
+824,computer multitasking
+825,query string
+826,varnish
+827,multisearch
+828,network interface
+829,apache mesos
+831,macos
+832,keras
+833,user management and authentication
+834,biochemical engineering
+835,issue tracking
+836,mobile ui frameworks
+837,karma
+838,google cloud dataflow
+839,buffer overflow
+840,google cloud functions
+841,multiprocessing
+842,icon font
+843,amazon ec2 container service
+844,uikit
+845,chartbeat
+846,contextual query language
+847,gitkraken
+848,image sensor
+849,documentation as a service & tools
+850,time–frequency analysis
+851,engagement/lifecycle marketing
+852,statuscake
+853,concurrency control
+854,sensor fusion
+855,continuous deployment
+856,high-level synthesis
+857,cognitive neuroscience of visual object recognition
+858,navigation system
+860,multivariate statistics
+861,eureka
+862,traefik
+863,dynamic source routing
+864,google compute engine
+865,recursion
+866,immutable.js
+867,bayesian network
+868,codenvy
+869,api.ai
+871,dropwizard
+872,shrinkage
+875,kanban tool
+876,storybook
+877,cross-correlation
+878,synchronization
+879,css pre-processors   extensions
+880,back office
+882,lumen
+883,multimedia
+884,cellular network
+885,hilbert–huang transform
+886,big data tools
+887,spatial analysis
+888,front end frameworks
+889,maxcdn
+890,sma*
+891,conductor
+892,haptic technology
+893,cakephp
+894,github pages
+895,static random access memory
+897,symfony
+898,hash function
+899,time tracking
+900,typescript
+901,heroku postgres
+902,internet privacy
+903,google cloud vision api
+904,finite state machine
+905,real time computing
+906,folksonomy
+907,mongoose
+908,aws fargate
+910,subject access
+911,multi-user
+912,cocoa touch ios
+913,mvvmcross
+914,multidimensional analysis
+915,electronic document
+916,xml
+918,network model
+919,puppet labs
+920,octopus deploy
+921,pouchdb
+923,beanstalkd
+924,tabu search
+925,beanstalk
+926,netbeans ide
+927,modular design
+929,aurelia
+930,application utilities
+931,opencv
+932,rule-based system
+933,local search optimization
+934,mina
+935,woocommerce
+936,dimensionality reduction
+937,heap data structure
+939,sensor tower
+940,query expansion
+941,dnsimple
+942,azure websites
+945,precision and recall
+946,expectation–maximization algorithm
+947,git tools
+948,cranfield experiments
+949,c3 js
+950,maximum a posteriori estimation
+951,case based reasoning
+953,godaddy
+954,data cube
+956,postgresql
+957,aws codepipeline
+958,system on a chip
+959,mesh networking
+960,boosting machine learning
+961,socket io
+962,create react app
+963,anomaly detection
+964,analysis of covariance
+965,clojure
+966,quantum algorithm
+967,chrome extension
+968,platform as a service
+969,cluster analysis
+970,spreadsheets online
+971,zendesk
+972,code climate
+975,web crawler
+976,jira
+977,index term
+978,apache cordova
+979,php mvc
+980,redash
+981,zepto
+982,resque
+983,forensic engineering
+984,wireless ad hoc network
+985,realm
+986,integrated circuit design
+987,aws opsworks
+989,correctness
+990,js build tools   js task runners
+991,specification language
+994,wireless sensor network
+996,linear regression
+997,scaffold
+998,sequelize
+999,hexo
+1000,lxd
+1001,ngrok
+1002,engagement lifecycle marketing
+1003,notepad++
+1004,dc os
+1005,supercomputer
+1006,jruby
+1008,amazon cloudwatch
+1009,arboriculture
+1010,cross-platform mobile tools
+1011,rule of thumb
+1012,snowflake
+1013,noise measurement
+1014,algorithm design
+1015,beta testing   mobile app distribution
+1016,information model
+1017,parse
+1018,skype
+1019,metamodeling
+1020,peer to peer
+1021,analysis of algorithms
+1022,program synthesis
+1023,rubocop
+1025,gunicorn
+1026,modal logic
+1027,time sharing
+1028,bag of words model
+1029,search retrieve via url
+1030,human–computer information retrieval
+1031,k-nearest neighbors algorithm
+1032,gauges
+1033,material design lite
+1034,secure multi party computation
+1035,buddy
+1036,amazon elasticache
+1037,front end package manager
+1038,online algorithm
+1039,phaser
+1040,support vector machine
+1042,multi-objective optimization
+1043,web document
+1044,context free language
+1045,open source cloud
+1046,intellij idea
+1047,generalized linear model
+1049,state diagram
+1050,capistrano
+1051,bamboo
+1052,jsdoc
+1053,matched filter
+1054,cryptography
+1055,raspberry pi
+1056,optical recording
+1057,recommender system
+1058,missing data
+1059,swagger ui
+1060,digital radio
+1061,loader io
+1062,mobile telephony
+1063,rxjs
+1064,centos
+1065,cdnjs
+1066,homebridge
+1067,wordplate
+1068,package manager
+1069,gitlab ci
+1070,corner detection
+1071,apache flink
+1072,beta by crashlytics
+1073,hbase
+1074,multi objective optimization
+1075,package managers
+1076,testflight
+1077,document classification
+1078,feature extraction
+1079,virtual machine platforms & containers
+1080,self-hosted blogging   cms
+1081,active database
+1082,ground truth
+1083,gaussian process
+1084,clicky
+1085,octodns
+1087,webflow
+1088,aerospace engineering
+1089,amazon kinesis
+1090,twitter
+1092,object model
+1093,web and video conferencing
+1094,rule induction
+1096,pycharm
+1097,boot2docker
+1098,optimization problem
+1099,next.js
+1100,dokku
+1101,inkwell
+1103,emacs
+1104,tree automaton
+1105,feature selection
+1106,neural coding
+1107,power management
+1108,semantic web
+1109,analog-to-digital converter
+1111,data system
+1112,locust
+1113,ml kit
+1114,network congestion
+1115,programming paradigm
+1116,query languages
+1117,real-time data
+1118,google kubernetes engine
+1119,redux thunk
+1120,android studio
+1121,round-trip delay time
+1122,paw
+1123,templating languages & extensions
+1124,azure functions
+1125,command line interface
+1126,data classification
+1127,interconnection
+1128,cataloging
+1129,readme io
+1130,data access
+1132,presto
+1133,dynamic time warping
+1134,latency engineering
+1135,mixed model
+1136,data science tools
+1137,plotly
+1138,structured text
+1140,awx
+1141,circleci
+1142,incapsula
+1143,pwa
+1144,first-order logic
+1145,jitter
+1146,javascript utilities & libraries
+1147,virtual private cloud
+1148,crm
+1149,application hosting
+1150,logrocket
+1151,sendgrid
+1153,background subtraction
+1154,pulp and paper industry
+1156,regression analysis
+1157,strongly connected component
+1158,unified medical language system
+1159,multispectral image
+1160,data integration
+1162,polymorphism computer science
+1163,access method
+1164,microsoft bot framework
+1165,data reduction
+1166,dijkstra's algorithm
+1167,control theory
+1168,aws codebuild
+1169,multimodal search
+1170,iterative reconstruction
+1171,react.js boilerplate
+1172,discriminative model
+1173,sentiment analysis
+1174,prisma
+1175,functional testing
+1176,node js
+1177,petroleum engineering
+1178,dynamic testing
+1179,factorial experiment
+1180,knex js
+1181,automotive engineering
+1182,kibana
+1183,flip-flop
+1184,benchmark computing
+1186,biometrics
+1187,built in self test
+1188,distributed algorithm
+1189,libraries
+1190,lastpass
+1191,lambdatest
+1192,ubuntu
+1193,passive optical network
+1194,wiener filter
+1195,openshift
+1196,flat panel display
+1198,biological database
+1199,cryptographic protocol
+1200,voice and sms
+1201,spacemacs
+1202,core network
+1203,reactiveui
+1204,sequel pro
+1205,yarn
+1207,secrets management
+1208,rule based system
+1209,sauce labs
+1210,iframely
+1212,clojurescript
+1213,databases
+1214,real time data
+1216,intrusion detection system
+1217,scheduling computing
+1218,virtual machine
+1219,custom analytics
+1220,aspect-oriented programming
+1221,data retrieval
+1222,word-sense disambiguation
+1223,breadth first search
+1224,sails.js
+1225,scikit-learn
+1226,random indexing
+1228,information theory
+1230,internet of things hardware
+1231,facial recognition system
+1233,api tools
+1234,dynamic loading
+1235,memcachier
+1236,data type
+1237,github enterprise
+1239,3d
+1240,point to point
+1241,superset
+1242,application and data
+1243,prosthesis
+1244,peer-to-peer
+1245,control engineering
+1246,sphinx
+1248,hotjar
+1249,field programmable gate array
+1251,game development
+1252,google bigquery
+1253,istio
+1254,model based reasoning
+1255,microsoft iis
+1256,parallel computing
+1257,arduino
+1258,online public access catalog
+1259,software-defined networking
+1260,expressjs
+1261,video quality
+1262,koding
+1263,docker for aws
+1264,filestack
+1265,oxygene
+1266,data consistency
+1268,linear logic
+1269,deadlock
+1270,crazy egg
+1271,log management
+1272,media access control
+1273,auth0
+1274,propositional calculus
+1276,codemirror
+1277,in memory databases
+1278,transparency graphic
+1279,component analysis
+1280,react hot loader
+1281,infobox
+1282,object oriented programming
+1283,semaphore
+1284,functional dependency
+1285,logic gate
+1286,formal language
+1287,template matching
+1290,tornado
+1291,analog to digital converter
+1292,node.js process manager
+1293,video processing
+1294,multi-agent system
+1295,least squares
+1296,cross platform desktop development
+1297,server configuration and automation
+1298,dedicated cloud hosting
+1300,js build tools / js task runners
+1301,constant false alarm rate
+1302,branch and bound
+1303,deontic logic
+1304,ovh
+1305,handlebars js
+1306,knowledge extraction
+1307,intelligent agent
+1308,computational complexity theory
+1309,first order logic
+1310,bitcoin
+1312,utilities
+1313,application server
+1315,minecraft
+1316,gaussian noise
+1317,cluster management
+1318,amazon cloudfront
+1319,digital subscriber line
+1320,microsoft azure
+1321,internet of things
+1322,network performance
+1324,ipfs
+1326,diagram
+1327,time-sharing
+1328,commenting service
+1329,raml
+1331,vuepress
+1332,uncertain data
+1333,amazon machine learning
+1334,knowledge based systems
+1335,rollbar
+1337,devise
+1338,microsoft sql server
+1339,angularui
+1340,image fusion
+1341,liquibase
+1342,network planning and design
+1344,google cloud messaging
+1345,digitalocean
+1346,data transmission
+1347,appium
+1348,active networking
+1350,ontology information science
+1351,c3.js
+1352,cobol
+1354,unified modeling language
+1355,php-mvc
+1356,econometric model
+1357,stack overflow
+1358,signalr
+1359,objective-c
+1360,table information
+1361,microdata html
+1362,coreos
+1364,metadata
+1365,mining engineering
+1367,wordpress
+1368,sonatype nexus
+1369,video tracking
+1370,document processing
+1371,vue.js
+1372,hough transform
+1373,code collaboration & version control
+1374,geckoboard
+1375,systems management
+1376,data model
+1377,cloud foundry
+1378,asynchronous transfer mode
+1379,memory management
+1380,livereload
+1381,semantic html
+1382,knex.js
+1383,fluentd
+1385,snippet
+1386,smart information retrieval system
+1387,computer aided software engineering
+1389,mutual information
+1390,material design for angular
+1391,testing frameworks
+1392,lexico
+1393,wercker
+1394,onesignal
+1395,euclidean distance
+1397,program design language
+1398,data file
+1399,google cloud pub sub
+1400,structural equation modeling
+1401,languages & frameworks
+1402,bourbon
+1403,mean
+1404,entity–relationship model
+1405,paypal
+1406,spacevim
+1407,authy
+1408,visual inspection
+1409,ubiquitous computing
+1410,garbage collection
+1411,object-oriented programming
+1412,platform as a service tools
+1413,web forms
+1414,openstack
+1415,c#
+1417,unicorn
+1418,monitoring tools
+1419,flow control data
+1420,change detection
+1421,sendbird
+1423,computer graphics images
+1424,replication computing
+1425,search box
+1426,kullback–leibler divergence
+1427,emulator
+1428,junit
+1429,materialize
+1430,stripe
+1431,abstract data type
+1433,client–server model
+1434,aerial photography
+1435,sql database as a service
+1436,convergence routing
+1437,container tools
+1438,context-free language
+1439,snyk
+1440,aws direct connect
+1441,weebly
+1442,distributed computing environment
+1443,linear temporal logic
+1444,optical transfer function
+1446,scanner
+1447,chemometrics
+1448,exploratory data analysis
+1449,intelligent document
+1450,readme.io
+1451,virtualization platform
+1452,web components
+1453,code generation
+1454,eye movement
+1456,deploybot
+1457,higher-order statistics
+1458,frequency analysis
+1459,flip flop
+1460,sendwithus
+1462,docker compose
+1463,composite index
+1464,automatic summarization
+1465,particle swarm optimization
+1466,deterministic automaton
+1468,performance metric
+1469,pug
+1470,data stores
+1471,fullstory
+1472,wireframing
+1473,dc/os
+1474,azure cosmos db
+1475,alpine linux
+1476,brightness
+1478,material design for bootstrap
+1479,jupyter
+1480,predictive coding
+1481,message queue
+1482,structural engineering
+1483,google cloud datastore
+1484,independent set
+1485,art & architecture thesaurus
+1486,groovy
+1487,concurrency frameworks
+1489,microcontroller
+1490,k-d tree
+1492,quantifier elimination
+1493,cost database
+1494,aeronautics
+1495,cucumber
+1496,emoji
+1497,watershed
+1499,serverless / task processing
+1500,durability
+1501,html
+1502,motion planning
+1503,reliability computer networking
+1504,peak signal-to-noise ratio
+1506,json server
+1507,r
+1508,variables
+1509,association rule learning
+1510,streams
+1511,program optimization
+1512,big data as a service
+1513,blind signal separation
+1514,amazon rds
+1516,heroku ci
+1517,multimedia database
+1518,amazon sns
+1519,semantic network
+1520,look ahead
+1522,computational science
+1523,errors in variables models
+1524,translation service
+1525,pytorch
+1526,drone io
+1527,wavelength division multiplexing
+1528,amazon sqs
+1529,concept learning
+1530,frameworks full stack
+1531,logistic regression
+1532,datadog
+1533,preact
+1534,gnu bash
+1536,reliability engineering
+1537,similarity measure
+1538,curse of dimensionality
+1539,computer-aided software engineering
+1540,very large database
+1541,bower
+1542,vmware vsphere
+1543,kitematic
+1544,outlier
+1545,bag-of-words model
+1546,application-specific integrated circuit
+1547,clion
+1548,activity recognition
+1549,stylelint
+1550,homogeneity statistics
+1551,momentjs
+1553,text segmentation
+1554,css pre processors / extensions
+1555,low-pass filter
+1556,druid
+1557,link analysis
+1560,telegram bot api
+1562,source document
+1563,fusion
+1564,scalable vector graphics
+1566,webstorm
+1568,computer program
+1569,jest
+1570,proximity search
+1571,debian
+1572,mapbox
+1573,read only memory
+1574,handlebars.js
+1576,rails api
+1577,triangulation social science
+1578,duplicate content
+1579,satisfiability
+1580,errors-in-variables models
+1582,evolutionary algorithm
+1583,automatic programming
+1584,semantic matching
+1586,database transaction
+1587,riak
+1588,in-memory databases
+1589,cross-platform mobile development
+1590,patent classification
+1591,algorithms
+1592,cepstrum
+1593,search engines
+1594,maven
+1596,let's encrypt
+1597,hetzner online ag
+1598,real time communication
+1601,operating systems
+1602,source separation
+1603,abstract machine
+1604,opensuse
+1605,circumscription
+1606,leaflet
+1607,load management
+1608,human–computer interaction
+1610,assets and media
+1611,appveyor
+1612,queueing theory
+1613,styled-components
+1614,stitch
+1615,sonarqube
+1616,domain registration
+1617,bazel
+1618,wix
+1619,read-only memory
+1620,mobility model
+1621,comprehension
+1622,redmine
+1623,digital signal processing
+1626,mobile agent
+1627,systems engineering
+1628,monitoring aggregation
+1629,pingdom
+1630,geotagging
+1632,slim
+1633,markup language
+1634,multidimensional scaling
+1636,amazon api gateway
+1637,information overload
+1638,keycdn
+1639,minio
+1640,reinforcement learning
+1641,charting libraries
+1642,es6
+1643,color vision
+1644,puma
+1645,first class
+1646,nexmo
+1647,point location
+1648,stamplay
+1649,mobile prototyping & interaction design tools
+1650,telecommunications service
+1651,fast fourier transform
+1652,liquid-crystal display
+1653,multi user
+1654,level of detail
+1655,speaker recognition
+1656,docker cloud
+1657,k d tree
+1658,loader.io
+1659,virtual memory
+1660,inspec
+1661,object relational mapper orm
+1662,point-to-point
+1663,bitrise
+1664,shields io
+1665,jekyll
+1667,key lock
+1668,aws lambda
+1669,file format
+1670,jquery
+1671,redux-thunk
+1672,unsupervised learning
+1675,reference frame
+1677,erasure code
+1678,web mining
+1679,medical imaging
+1680,communications
+1681,directed graph
+1682,control flow
+1683,secure communication
+1684,logstash
+1685,gogs
+1686,spring cloud
+1689,solid modeling
+1690,detection theory
+1691,instrumental variable
+1692,sorting
+1693,nginx
+1694,code coverage
+1695,spring
+1696,elixir
+1697,document layout analysis
+1698,speech processing
+1699,payment services
+1700,slim lang
+1701,ibm   api connect
+1702,technological change
+1703,qt
+1704,ensemble learning
+1705,visual studio code
+1706,amazon ec2
+1707,memcached
+1708,finagle
+1709,non volatile memory
+1710,sencha touch
+1711,speech recognition
+1712,api documentation browser
+1713,omniauth
+1714,next-generation network
+1715,transactional email
+1716,elasticsearch
+1717,k nearest neighbors algorithm
+1718,scrutinizer
+1719,apache tomcat
+1720,dependency monitoring
+1721,search algorithm
+1722,knowledge-based systems
+1723,structured document
+1725,document signature
+1726,higher order statistics
+1727,textmate
+1728,karhunen–loève theorem
+1729,code quality
+1730,operational transformation
+1731,sinatra
+1732,cross-platform desktop development
+1733,crystal
+1735,phalcon
+1736,netty
+1737,jupyter notebook
+1738,openlayers
+1739,display device
+1740,coordinate system
+1741,figma
+1742,network delay
+1743,parallel algorithm
+1744,consul
+1745,virtualbox
+1746,hyperspectral imaging
+1747,random forest
+1748,receiver operating characteristic
+1749,linux mint
+1750,graphical user interface
+1751,multi core processor
+1752,distributed database
+1753,new relic
+1754,search/retrieve via url
+1755,multi agent system
+1756,firebase
+1757,vim
+1758,legal information retrieval
+1759,construction engineering
+1760,rdf
+1761,jasmine
+1762,plagiarism detection
+1763,internet protocol suite
+1765,key exchange
+1766,real-time operating system
+1767,type theory
+1768,computational model
+1769,audio signal
+1770,apache http server
+1771,pixel art
+1772,fault model
+1773,hosted blogging platforms
+1774,image segmentation
+1775,petri net
+1776,gerrit code review
+1778,messenger platform
+1779,complex data type
+1780,text mining
+1781,tools for text editors
+1782,clone java method
+1783,medical literature retrieval
+1784,pushwoosh
+1785,business tools
+1787,vault
+1788,simulated annealing
+1789,rest api
+1790,p2p
+1791,apache zeppelin
+1792,search engine indexing
+1793,travelling salesman problem
+1794,error detection and correction
+1795,data as a service
+1796,react router
+1797,kafka
+1799,seasonality
+1800,stop words
+1801,chatbot platforms & tools
+1802,analytics integrator
+1803,discrete system
+1805,integer programming
+1806,haskell
+1807,information filtering system
+1808,formal specification
+1809,telegram
+1810,open data
+1811,built-in self-test
+1812,riot
+1813,clever cloud
+1814,ava
+1815,data flow diagram
+1817,docker swarm
+1818,hypercube
+1819,terminal
+1821,topic model
+1823,data integrity
+1824,visual programming language
+1825,pandas
+1826,environmental engineering
+1828,shortest path problem
+1829,geoparsing
+1830,parse-server
+1831,virtual machine management
+1832,fortran
+1833,graphical model
+1835,visual cortex
+1836,cloudinary
+1837,signal strength
+1838,mongodb hosting
+1839,buildkite
+1840,mobile testing frameworks
+1841,font
+1842,random access
+1843,postmark
+1844,brain mapping
+1847,real-time computing
+1848,tree data structure
+1849,correlation coefficient
+1850,data manipulation language
+1851,cloud9 ide
+1852,socket.io
+1853,parse server
+1854,dart
+1855,material-ui
+1856,load balancer / reverse proxy
+1857,wavelet
+1858,mocha
+1859,postgis
+1860,static site generators
+1861,github
+1862,formal concept analysis
+1863,type inference
+1864,squarespace
+1865,data logger
+1866,jetty
+1867,naive bayes classifier
+1868,rotation
+1869,aboutness
+1870,mean-shift
+1871,emotion recognition
+1873,flux
+1874,microservices tools
+1875,programmable logic device
+1876,time series
+1877,computer data storage
+1878,markdown
+1879,f#
+1880,amazon rds for postgresql
+1881,interactive mockups
+1882,kendo ui
+1883,optical imaging
+1884,metabase
+1885,facial expression
+1886,semantic similarity
+1887,speech coding
+1888,expert system
+1889,description logic
+1890,decision tree
+1892,sparkpost
+1893,pile
+1894,information seeking
+1895,goodness of fit
+1896,javascript ui libraries
+1898,urban airship
+1899,high-level programming language
+1900,portainer
+1901,fossa
+1902,false positive rate
+1903,typeform
+1905,turing machine
+1906,hasura
+1907,imgix
+1909,particle filter
+1910,push monkey
+1911,image meta search
+1912,shields.io
+1913,apache spark
+1914,binary search tree
+1915,integrated development environment
+1916,neo4j
+1917,runtime system
+1918,enterprise information security architecture
+1919,java build tools
+1921,c
+1922,background processing
+1923,integrated development environment tools
+1924,spring boot
+1925,amplitude
+1926,google maps
+1927,dynamic data
+1928,mattermost
+1929,presentation semantics
+1930,smart card
+1931,data sharing
+1932,file storage
+1933,real-time communication
+1934,spring-boot
+1935,codekit
+1936,general analytics
+1937,docker machine
+1938,drupal
+1939,redux.js
+1941,intelligent network
+1943,filter signal processing
+1944,line of sight
+1945,knowledge representation and reasoning
+1946,rough set
+1947,koa
+1948,chatops
+1950,web starter kit
+1951,sublime text
+1952,akamai
+1953,computer cluster
+1954,reverse engineering
+1956,statistical model
+1957,superresolution
+1958,response surface methodology
+1960,data stream
+1962,transport engineering
+1964,teamcity
+1965,shopify
+1966,api
+1967,haml
+1968,decomposition method constraint satisfaction
+1969,zeromq
+1970,amazon emr
+1971,remote control
+1972,google cloud pub/sub
+1974,moving average
+1975,pico 8
+1976,static random-access memory
+1977,codacy
+1978,noise reduction
+1979,runscope
+1980,homebrew
+1982,decidability
+1983,adder
+1984,load and performance testing
+1985,3d reconstruction
+1986,exception monitoring
+1987,clicktale
+1988,amazon cognito
+1989,throughput
+1991,high level synthesis
+1992,marathon
+1993,status page hosting
+1994,distributed object
+1995,static web hosting
+1996,time of arrival
+1997,microcomputer
+1998,cloud hosting
+1999,time constraint
+2000,browserstack
+2001,top down and bottom up design
+2002,kissmetrics
+2003,pixel
+2004,forums
+2006,styled components
+2007,principal component analysis
+2008,heroku redis
+2009,asynchronous communication
+2010,software defined networking
+2011,virtual organization
+2014,trend analysis
+2015,aspect oriented programming
+2016,quantum computer
+2018,dyn
+2019,vector space model
+2020,amazon athena
+2021,json
+2022,random projection
+2023,sparse approximation
+2024,geometric modeling
+2025,pattern recognition
+2026,postcss
+2027,the julia language
+2028,text editor
+2029,mongoid
+2030,data stream mining
+2031,pose
+2032,api ai
+2033,minification
+2034,arborist
+2036,arbol
+2038,self-management
+2039,backbone.js
+2040,decision rule
+2041,inter-process communication
+2042,generalization error
+2043,gsm
+2044,knowledge acquisition
+2045,robot
+2046,trello
+2047,encoding memory
+2048,salesforce sales cloud
+2049,amazon redshift
+2050,skeleton computer programming
+2051,quality of service
+2052,codeanywhere
+2053,state management library
+2054,ethernet
+2055,smoothing
+2056,asana
+2057,phantomjs
+2058,skeleton
+2059,semi-supervised learning
+2060,next js
+2061,word error rate
+2062,formal methods
+2063,machine vision
+2064,language acquisition
+2065,curve fitting
+2066,ratchet
+2067,inter process communication
+2068,vagrant
+2069,redis
+2070,disjunctive normal form
+2071,redundancy engineering
+2072,firefox
+2073,mercurial
+2074,morphology linguistics
+2075,google cloud container builder
+2078,peak signal to noise ratio
+2079,feathersjs
+2080,data science notebooks
+2081,multi-core processor
+2082,parsing
+2084,arangodb
+2085,world wide web
+2086,react native
+2087,performance monitoring
+2088,programming & code analytics
+2089,electron
+2090,indentation
+2091,amazon s3
+2092,openresty
+2093,concourse
+2094,image processing and management
+2096,operator computer programming
+2097,dns management
+2099,localhost tools
+2100,zenefits
+2101,google cloud bigtable
+2102,information retrieval query language
+2103,deco
+2104,jquery mobile
+2105,open postgresql monitoring
+2107,fingerprint
+2108,contingency table
+2109,self-hosted blogging / cms

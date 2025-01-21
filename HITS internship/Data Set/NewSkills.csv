@@ -1,0 +1,1145 @@
+,Text,Type
+0,"3d math
+",SKILL
+1,"3d modeling software
+",SKILL
+2,"3d modeling
+",SKILL
+3,"3d packaging
+",SKILL
+4,"3d particles and dynamics
+",SKILL
+5,"3d printing
+",SKILL
+6,"3d production
+",SKILL
+7,"3d prototyping
+",SKILL
+8,"3d graphic design
+",SKILL
+9,"3d graphics
+",SKILL
+10,"Algorithms
+",SKILL
+11,"Autonomous Driving Cars
+",SKILL
+12,"Auditing
+",SKILL
+13,"AutoCAD
+",SKILL
+14,"Automotive
+",SKILL
+15,"Art
+",SKILL
+16,"Arduino
+",SKILL
+17,"AI 
+",SKILL
+18,"Artificial Intelligence
+",SKILL
+19,"Audio and video Processing
+",SKILL
+20,"Analytical Skills
+",SKILL
+21,"Adobe Photoshop
+",SKILL
+22,"Art Direction
+",SKILL
+23,"Automation
+",SKILL
+24,"Adobe Illustrator
+",SKILL
+25,"Adobe InDesign
+",SKILL
+26,"Agile Methodologies
+",SKILL
+27,"Apache Subversion
+",SKILL
+28,"Apache Kafka
+",SKILL
+29,"Applied Mathematics
+",SKILL
+30,"Automated marketing software
+",SKILL
+31,"Advanced Signal Processing Techniques
+",SKILL
+32,"Automated Billing Systems
+",SKILL
+33,"AWS
+",SKILL
+34,"AWS CodeCommit
+",SKILL
+35,"Amazon web services
+",SKILL
+36,"Amazon Api Gateway
+",SKILL
+37,"Amazon Athena
+",SKILL
+38,"Amazon Cloudfront
+",SKILL
+39,"Amazon Cloudwatch
+",SKILL
+40,"Amazon Cognito
+",SKILL
+41,"Amazon Dynamodb
+",SKILL
+42,"Amazon Ebs
+",SKILL
+43,"Amazon Ec2
+",SKILL
+44,"Amazon Ec2 Container Service
+",SKILL
+45,"Amazon Eks
+",SKILL
+46,"Amazon Elasticache
+",SKILL
+47,"Amazon Elasticsearch Service
+",SKILL
+48,"Amazon Emr
+",SKILL
+49,"Amazon Kinesis
+",SKILL
+50,"Amazon Kinesis Firehose
+",SKILL
+51,"Amazon Machine Learning
+",SKILL
+52,"Amazon Rds
+",SKILL
+53,"Amazon Rds For Aurora
+",SKILL
+54,"Amazon Rds For Postgresql
+",SKILL
+55,"Amazon Redshift
+",SKILL
+56,"Amazon Route 53
+",SKILL
+57,"Amazon S3
+",SKILL
+58,"Amazon Ses
+",SKILL
+59,"Amazon Sns
+",SKILL
+60,"Amazon Sqs
+",SKILL
+61,"Amazon Vpc
+",SKILL
+62,"Amazon Web Services
+",SKILL
+63,"Anomaly Detection
+",SKILL
+64,"Apache Maven
+",SKILL
+65,"Automated Reasoning
+",SKILL
+66,"Automated Theorem Proving
+",SKILL
+67,"Automatic Programming
+",SKILL
+68,"Automatic Summarization
+",SKILL
+69,"Automatic Taxonomy Induction
+",SKILL
+70,"Automaton
+",SKILL
+71,"Aws Cloudformation
+",SKILL
+72,"Azure
+",SKILL
+73,"Azure Security
+",SKILL
+74,"Azure Machine Learning
+",SKILL
+75,"Backend Tech
+",SKILL
+76,"Business Analysis
+",SKILL
+77,"Budgeting
+",SKILL
+78,"Business Strategy
+",SKILL
+79,"Business Process Improvement
+",SKILL
+80,"Business Services
+",SKILL
+81,"Business Planning
+",SKILL
+82,"Branding
+",SKILL
+83,"Business Intelligence
+",SKILL
+84,"BI
+",SKILL
+85,"Business Process
+",SKILL
+86,"Bitbucket
+",SKILL
+87,"CAD
+",SKILL
+88,"computer-aided design
+",SKILL
+89,"Customer Service
+",SKILL
+90,"Communication
+",SKILL
+91,"Company Research
+",SKILL
+92,"Change Management
+",SKILL
+93,"Coaching
+",SKILL
+94,"Construction
+",SKILL
+95,"Customer Relationship Management
+",SKILL
+96,"Contractual Agreements
+",SKILL
+97,"Customer Satisfaction
+",SKILL
+98,"Contract Negotiation
+",SKILL
+99,"Creativity
+",SKILL
+100,"Computer Vision
+",SKILL
+101,"CVS (Concurrent Versions System)
+",SKILL
+102,"Content Management Systems (CMS)
+",SKILL
+103,"CMS
+",SKILL
+104,"Copywriting
+",SKILL
+105,"Content creation
+",SKILL
+106,"Calculus
+",SKILL
+107,"Cognitive Science
+",SKILL
+108,"CUDA
+",SKILL
+109,"Database Administration
+",SKILL
+110,"Databases SQL
+",SKILL
+111,"Design
+",SKILL
+112,"Databases
+",SKILL
+113,"Data Analysis
+",SKILL
+114,"Digital Marketing
+",SKILL
+115,"Decision Making
+",SKILL
+116,"Digital Media
+",SKILL
+117,"Documentation
+",SKILL
+118,"Digital media
+",SKILL
+119,"Data Modeling and Evaluation
+",SKILL
+120,"Data Science
+",SKILL
+121,"Drawing
+",SKILL
+122,"Development Tools
+",SKILL
+123,"DNS Management
+",SKILL
+124,"Docker
+",SKILL
+125,"Docker Machine
+",SKILL
+126,"Document Management System
+",SKILL
+127,"Domain Knowledge
+",SKILL
+128,"Domain Model
+",SKILL
+129,"Domain Registration
+",SKILL
+130,"DeepFace
+",SKILL
+131,"DevOps
+",SKILL
+132,"Event Planning
+",SKILL
+133,"Editing
+",SKILL
+134,"Entrepreneurship
+",SKILL
+135,"Email
+",SKILL
+136,"Employee Benefits Design
+",SKILL
+137,"Energy
+",SKILL
+138,"Electronics
+",SKILL
+139,"Enterprise Software
+",SKILL
+140,"Enterprise Systems
+",SKILL
+141,"Ecommerce
+",SKILL
+142,"Finance
+",SKILL
+143,"Financial Analysis
+",SKILL
+144,"Fundraising
+",SKILL
+145,"Facility Management
+",SKILL
+146,"Food and Beverage
+",SKILL
+147,"Forecasting
+",SKILL
+148,"Facilitation
+",SKILL
+149,"Facial recognition
+",SKILL
+150,"Financial Risk
+",SKILL
+151,"Financial Reporting
+",SKILL
+152,"Government Agencies
+",SKILL
+153,"Grocery
+",SKILL
+154,"Graphic Design
+",SKILL
+155,"Gas
+",SKILL
+156,"Graphics
+",SKILL
+157,"Grant Writing
+",SKILL
+158,"General Ledger
+",SKILL
+159,"Git
+",SKILL
+160,"GitHub
+",SKILL
+161,"GitTalk
+",SKILL
+162,"HTML
+",SKILL
+163,"HMI
+",SKILL
+164,"Heavy Equipment
+",SKILL
+165,"Hospitals
+",SKILL
+166,"Higher Education
+",SKILL
+167,"History
+",SKILL
+168,"Healthcare
+",SKILL
+169,"Hospitality Industry
+",SKILL
+170,"Helping Clients Succeed
+",SKILL
+171,"Healthcare Management
+",SKILL
+172,"HTML5
+",SKILL
+173,"Image segmentation
+",SKILL
+174,"Image restoration
+",SKILL
+175,"Information Technology
+",SKILL
+176,"Interpersonal Skills
+",SKILL
+177,"Information Systems
+",SKILL
+178,"Internal Audit
+",SKILL
+179,"Integration
+",SKILL
+180,"Insurance
+",SKILL
+181,"Investments
+",SKILL
+182,"Interviewing
+",SKILL
+183,"Invoicing
+",SKILL
+184,"Integrated Marketing
+",SKILL
+185,"Information Integration
+",SKILL
+186,"Information Management
+",SKILL
+187,"Information Model
+",SKILL
+188,"Information Overload
+",SKILL
+189,"Information Retrieval
+",SKILL
+190,"Information Retrieval Applications
+",SKILL
+191,"Information Retrieval Query Language
+",SKILL
+192,"Java
+",SKILL
+193,"Javascript
+",SKILL
+194,"JQuery
+",SKILL
+195,"Journalism
+",SKILL
+196,"Job Scanning
+",SKILL
+197,"Job Description Development
+",SKILL
+198,"Journals
+",SKILL
+199,"Joint Ventures
+",SKILL
+200,"Key Performance Indicators
+",SKILL
+201,"K12 Education
+",SKILL
+202,"Knowledge Management
+",SKILL
+203,"Kanban
+",SKILL
+204,"Keras
+",SKILL
+205,"Key Account Development
+",SKILL
+206,"Knowledge Sharing
+",SKILL
+207,"Knowledge Base
+",SKILL
+208,"Knowledge on quality and reliability
+",SKILL
+209,"Leadership
+",SKILL
+210,"Logistics Management
+",SKILL
+211,"Local Marketing
+",SKILL
+212,"Legal Issues
+",SKILL
+213,"Linux
+",SKILL
+214,"Leadership Development
+",SKILL
+215,"Laboratory Skills
+",SKILL
+216,"Leadership
+",SKILL
+217,"Lean Manufacturing
+",SKILL
+218,"Litigation
+",SKILL
+219,"Legal Writing
+",SKILL
+220,"MS Software
+",SKILL
+221,"Microsoft software
+",SKILL
+222,"Microsoft Excel
+",SKILL
+223,"Microsoft Powerpoint
+",SKILL
+224,"Microsoft Word
+",SKILL
+225,"MATLAB
+",SKILL
+226,"MacOS
+",SKILL
+227,"Manufacturing Engineering
+",SKILL
+228,"Medical Image Segmentation
+",SKILL
+229,"MapReduce and Hadoop
+",SKILL
+230,"Machine Learning
+",SKILL
+231,"Machine Learning Algorithms:
+",SKILL
+232,"NaÃ¯ve Bayes Classifier
+",SKILL
+233,"K Means Clustering
+",SKILL
+234,"Support Vector Machine
+",SKILL
+235,"Apriori Algorithm
+",SKILL
+236,"Linear Regression
+",SKILL
+237,"Logistic Regression
+",SKILL
+238,"Decision Trees
+",SKILL
+239,"Random Forests
+",SKILL
+240,"Motion analysis
+",SKILL
+241,"Mathematics
+",SKILL
+242,"Mathematical Skills
+",SKILL
+243,"Mathematics and mathematical models
+",SKILL
+244,"Mechanical Design
+",SKILL
+245,"Mechanical Systems
+",SKILL
+246,"MySQL
+",SKILL
+247,"Microsoft (MS) Team Foundation Server
+",SKILL
+248,"Mechanical Engineering
+",SKILL
+249,"Negotiation
+",SKILL
+250,"Nonprofit Organizations
+",SKILL
+251,"New Business Opportunities
+",SKILL
+252,"Newsletters
+",SKILL
+253,"New Hires
+",SKILL
+254,"Network Communications
+",SKILL
+255,"Network Administration
+",SKILL
+256,"Network Systems
+",SKILL
+257,"Network Attached Storage
+",SKILL
+258,"Nutrition
+",SKILL
+259,"Neural Network Architectures
+",SKILL
+260,"Natural Language Processing
+",SKILL
+261,"NLP
+",SKILL
+262,"Object recognition
+",SKILL
+263,"Order Fulfillment
+",SKILL
+264,"Online Advertising
+",SKILL
+265,"Operating Systems
+",SKILL
+266,"Organizational Development
+",SKILL
+267,"Oracle
+",SKILL
+268,"Oracle RDBMS
+",SKILL
+269,"Operations Management
+",SKILL
+270,"Organizational Structure
+",SKILL
+271,"Office Administration
+",SKILL
+272,"Oracle Database
+",SKILL
+273,"Outsourcing
+",SKILL
+274,"OpenCV
+",SKILL
+275,"Performance Tuning
+",SKILL
+276,"PLC
+",SKILL
+277,"PyTorch
+",SKILL
+278,"Physics
+",SKILL
+279,"Parallel and distributed 
+",SKILL
+280,"Public Speaking
+",SKILL
+281,"Project Planning
+",SKILL
+282,"Program Management
+",SKILL
+283,"Prototyping
+",SKILL
+284,"Probability & Statistics
+",SKILL
+285,"Public Relations
+",SKILL
+286,"Public Policy
+",SKILL
+287,"Problem Solving
+",SKILL
+288,"Partnerships
+",SKILL
+289,"Presentations
+",SKILL
+290,"Pricing Strategy
+",SKILL
+291,"Python
+",SKILL
+292,"Qualitative Research
+",SKILL
+293,"Queues
+",SKILL
+294,"QuickBooks
+",SKILL
+295,"Quality System
+",SKILL
+296,"Quotations
+",SKILL
+297,"Quality Auditing
+",SKILL
+298,"Quantitative Research
+",SKILL
+299,"Qualifying Prospects
+",SKILL
+300,"Quality Improvement
+",SKILL
+301,"Query Writing
+",SKILL
+302,"R
+",SKILL
+303,"Ruby
+",SKILL
+304,"Research
+",SKILL
+305,"Retail
+",SKILL
+306,"Recruiting
+",SKILL
+307,"Real Estate
+",SKILL
+308,"Reviews
+",SKILL
+309,"Responsive Web Designing
+",SKILL
+310,"Regulations
+",SKILL
+311,"Residential Homes
+",SKILL
+312,"Records
+",SKILL
+313,"Robotics
+",SKILL
+314,"Reinforcement Learning
+",SKILL
+315,"Microcontrollers, or MCUs
+",SKILL
+316,"Real-time Operating Systems
+",SKILL
+317,"RTOS
+",SKILL
+318,"Device drivers, including Linux
+",SKILL
+319,"Linux operating system
+",SKILL
+320,"Communication Protocols
+",SKILL
+321,"Interface buses like I2C and SPI
+",SKILL
+322,"GNU Project debugger
+",SKILL
+323,"Microprocessor technology
+",SKILL
+324,"Application software engineer 
+",SKILL
+325,"Device Drivers
+",SKILL
+326,"Software tester
+",SKILL
+327,"Driver Development
+",SKILL
+328,"GPS/AGPS Developer
+",SKILL
+329,"RF Communications Protocol
+",SKILL
+330,"WiFi Communications Protocol 
+",SKILL
+331,"Embedded Hardware
+",SKILL
+332,"Board Design Engineer
+",SKILL
+333,"Board (hardware) validation
+",SKILL
+334,"Product Application Engineer (PAE)
+",SKILL
+335,"Marketing and Sales
+",SKILL
+336,"Marketing executive â€¢ Sales executive
+",SKILL
+337,"Strategic Planning
+",SKILL
+338,"Social Media
+",SKILL
+339,"Staff Development
+",SKILL
+340,"Sales Management
+",SKILL
+341,"Strategy
+",SKILL
+342,"Scene construction
+",SKILL
+343,"Satellite Image Processing
+",SKILL
+344,"Supervisory Skills
+",SKILL
+345,"Search Engine Optimization (SEO)
+",SKILL
+346,"SEO
+",SKILL
+347,"Social media platforms
+",SKILL
+348,"Software Testing
+",SKILL
+349,"SQL
+",SKILL
+350,"Software development
+",SKILL
+351,"Software Documentation
+",SKILL
+352,"Soft Skills
+",SKILL
+353,"Solidworks
+",SKILL
+354,"Solid Principles
+",SKILL
+355,"Simulink
+",SKILL
+356,"Schedules
+",SKILL
+357,"SCADA
+",SKILL
+358,"Self-driving cars
+",SKILL
+359,"Training
+",SKILL
+360,"Teamwork
+",SKILL
+361,"Team Leadership
+",SKILL
+362,"Teaching
+",SKILL
+363,"Team Building
+",SKILL
+364,"Testing
+",SKILL
+365,"Time Management
+",SKILL
+366,"Team Management
+",SKILL
+367,"Troubleshooting
+",SKILL
+368,"Telecommunications
+",SKILL
+369,"Unix
+",SKILL
+370,"User Interface Design
+",SKILL
+371,"User Experience
+",SKILL
+372,"Underwriting
+",SKILL
+373,"Department of Defense
+",SKILL
+374,"Unified Modeling Language
+",SKILL
+375,"University Teaching
+",SKILL
+376,"User Acceptance Testing
+",SKILL
+377,"Vendor Management
+",SKILL
+378,"Version Control
+",SKILL
+379,"Virtual Machine
+",SKILL
+380,"Virtual machines and cloud environment
+",SKILL
+381,"Virtual Machine Management
+",SKILL
+382,"Virtual Machine Platforms & Containers
+",SKILL
+383,"Video Editing
+",SKILL
+384,"Video Production
+",SKILL
+385,"Volunteering
+",SKILL
+386,"Validation
+",SKILL
+387,"Vendors
+",SKILL
+388,"Volunteer Management
+",SKILL
+389,"Video Editing
+",SKILL
+390,"Visual Merchandising
+",SKILL
+391,Writing,
+392,"Techincal Writing
+",SKILL
+393,"Techincal Writing Reports
+",
+394,"Web Design
+",SKILL
+395,"Web Development
+",SKILL
+396,"Windows Server
+",SKILL
+397,"Workshops
+",SKILL
+398,"Web Applications
+",SKILL
+399,"Water Resource Management
+",SKILL
+400,"WordPress
+",SKILL
+401,"Wireless Technologies
+",SKILL
+402,"YOLO
+",SKILL
+403,"Payment Processing
+",SKILL
+404,"Customer Relationship
+",SKILL
+405,"Hardware Skills
+",SKILL
+406,"System administration
+",SKILL
+407,"network configuration 
+",SKILL
+408,"software installation
+",SKILL
+409,"security
+",SKILL
+410,"Cisco
+",SKILL
+411,"techincal support
+",SKILL
+412,"updates configuration
+",SKILL
+413,"project management
+",SKILL
+414,"Web development
+",SKILL
+415,"open source
+",SKILL
+416,"data structures
+",SKILL
+417,"Tableau
+",SKILL
+418,"Keynote
+",SKILL
+419,"Apache
+",SKILL
+420,"MySQL
+",SKILL
+421,"SAS
+",SKILL
+422,"JSON
+",SKILL
+423,"data mining
+",SKILL
+424,"SQLite
+",SKILL
+425,"RapidMiner
+",SKILL
+426,"Network configuration,
+",SKILL
+427,"security
+",SKILL
+428,"network automation
+",SKILL
+429,"Cloud Computing
+",SKILL
+430,"MS Excel & Access (specifically functions, formulas, filters, queries, and pivot tables)
+",SKILL
+431,"MS SQL Server
+",SKILL
+432,"Oracle RDBMS
+",SKILL
+433,"MySQL
+",SKILL
+434,"FileMaker
+",SKILL
+435,"Amazon RDS
+",SKILL
+436,"Amazon SimpleDB
+",SKILL
+437,"Couchbase
+",SKILL
+438,"PhpMyAdmin
+",SKILL
+439,"DbVisualizer
+",SKILL
+440,"Informix
+",SKILL
+441,"Informix Dynamic Servers
+",SKILL
+442,"4D
+",SKILL
+443,"Cloudera
+",SKILL
+444,"Hadoop HDFS
+",SKILL
+445,"Robomongo
+",SKILL
+446,"MariaDB
+",SKILL
+447,"Sequel PRO
+",SKILL
+448,"Toad
+",SKILL
+449,"SQL Developer
+",SKILL
+450,"OrientDB
+",SKILL
+451,"CouchDB
+",SKILL
+452,"Redis
+",SKILL
+453,"Neo4j
+",SKILL
+454,"MongoDB
+",SKILL
+455,"PostgreSQL
+",SKILL
+456,"SQLite
+",SKILL
+457,"ADABAS
+",SKILL
+458,"IBM DB2
+",SKILL
+459,"Teradata
+",SKILL
+460,"SAP 
+",SKILL
+461,"Sybase ASE
+",SKILL
+462,"Microsoft SQL Server 
+",SKILL
+463,"Oracle Database 
+",SKILL
+464,"PL/SQL 
+",SKILL
+465,"Linux 
+",SKILL
+466,"Oracle RAC 
+",SKILL
+467,"RMAN 
+",SKILL
+468,"MySQL 
+",SKILL
+469,"ITIL 
+",SKILL
+470,"PostgreSQL
+",SKILL
+471,"C/C++
+",SKILL
+472,C++,SKILL
+473,"C#
+",SKILL
+474,C,SKILL
+475,"Perl
+",SKILL
+476,"PHP
+",SKILL
+477,"Python
+",SKILL
+478,"Swift
+",SKILL
+479,"Go
+",SKILL
+480,"Product roadmaps
+",SKILL
+481,"User experience design
+",SKILL
+482,"Programming skills
+",SKILL
+483,"Product lifecycle management
+",SKILL
+484,"QA testing 
+",SKILL
+485,"Requirements gathering
+",SKILL
+486,"Coding
+",SKILL
+487,"Implementation
+",SKILL
+488,"Testing
+",SKILL
+489,"Configuration
+",SKILL
+490,"IOS/Android
+",SKILL
+491,"Programming languages
+",SKILL
+492,"Cloud Security
+",SKILL
+493,"Security
+",SKILL
+494,"Modeling
+",SKILL
+495,"Google Analytics
+",SKILL
+496,"Marketing analytics tools
+",SKILL
+497,"TensorFlow
+",SKILL
+498,"Linear Algebra
+",SKILL
+499,"Beanstalk
+",SKILL
+500,Perforce,SKILL
+501,Linux,
+502,Android,
+503,Database,
+504,Selenium,
+505,Relay,
+506,Testing,
+507,Diagram,
+508,Electrical engineering,
+509,Debugging,
+510,Testing,
+511,Design,
+512,Latex,
+513,Library,
+514,Testing,
+515,Tracking system,
+516,Feature selection,
+517,Eclipse,
+518,Linux,
+519,Business Solution,
+520,Marketing Skills,
+521,Data Analytics,
+522,Jupyter notebook,
+523,Machine learning,
+524,Deep learning,
+525,Django,
+526,Flask,
+527,Tableau,
+528,Data processing,
+529,GUI,
+530,Semantic UI,
+531,XML,
+532,Network Topology,
+533,Computer Multitasking,
+534,System Testing,
+535,Visual Basic,
+536,higher-order statistics,
+537,react.js,
+538,speckle pattern,
+539,amazon kinesis firehose,
+540,open source cloud,
+541,"Hadoop
+",
+542,"3d Max
+",
+543,"Critical Thinking
+",
+544,"Problem Solver
+",
+545,"Problem Solving
+",
+546,"Back End
+",
+547,"backend
+",
+548,Front End,
+549,Frontend,
+550,Analysis of algorithms,
+551,Object-Oriented Programming,
+552,Bitrise,
+553,Cloud storage,
+554,Google Big Query,
+555,computer programming,
+556,"REDUX
+",
+557,Adaptability,
+558,Leadership,
+559,Collaboration,
+560,Initiative,
+561,Flexibility,
+562,"Hardworker
+",
+563,Strategic Thinking,
+564,Motivation,
+565,Teamworking,
+566,Cost & Trend Analysis,
+567,ERP Systems,
+568,,
+569,Web technologies,
+570,Curiosity,
+571,Self-awareness,
+572,Compassion,
+573,Practicality,
+574,Negotiation,
+575,Punctuality,
+576,Loyalty,
+577,Honesty,
+578,Passion,
+579,Independence,
+580,Advanced computation,
+581,Quantitative analysis,
+582,Financial modeling and forecasting,
+583,Technical analysis,
+584,Data visualization,
+585,Statistical analysis,
+586,Accounting software proficiency,
+587,Cybersecurity,
+588,.Net,
+589,SLAM,
+590,SLAM (Simultaneous Localization and Mapping),
+591,Simultaneous Localization and Mapping,
+592,CSS,
+593,CCIE,
+594,CCNA,
+595,Cisco Certified Internetwork Expert,
+596,CompTIA Network+,
+597,CCNP,
+598,ETAB,
+599,Revit,
+600,Networking Concepts,
+601,Networking protocols,
+602,"TCP/IP, DHCP, UDP",
+603,TCP/IP,
+604,"DHCP, UDP",
+605,DHCP,
+606,UDP,
+607,Routing,
+608,Network Hardware,
+609,Network Infrastructure,
+610,Firewalls and Security for Network Security,
+611,cloud networking architecture,
+612,Virtualization and automation ,
+613,Virtualization,
+614,Technology Solutions,
+615,IoT,
+616,Mobile Hardware Environment,
+617,Mobile app development,
+618,API automation and testing,
+619,Information security,
+620,UI/UX design,
+621,Big Data,
+622,GPS Systems,
+623,Sensor Fusion,
+624,Embedded Software,
+625,Embedded systems,
+626, Citect,
+627,FactoryTalk ViewSE,
+628,Cimplicity,
+629,TIA Portal,
+630,WinCC,
+631,Ignition,
+632,Monitoring and Testing,
+633,Analytical and logical reasoning,
+634,Agile,
+635,,
+636,,
+637,,

@@ -1,0 +1,509 @@
+3d math
+3d modeling software
+3d modeling
+3d packaging
+3d particles and dynamics
+3d printing
+3d production
+3d prototyping
+3d graphic design
+3d graphics
+Algorithms
+Autonomous Driving Cars
+Auditing
+AutoCAD
+Automotive
+Art
+Arduino
+AI 
+Artificial Intelligence
+Audio and video Processing
+Analytical Skills
+Adobe Photoshop
+Art Direction
+Automation
+Adobe Illustrator
+Adobe InDesign
+Agile Methodologies
+Apache Subversion
+Apache Kafka
+Applied Mathematics
+Automated marketing software
+Advanced Signal Processing Techniques
+Automated Billing Systems
+AWS
+AWS CodeCommit
+Amazon web services
+Amazon Api Gateway
+Amazon Athena
+Amazon Cloudfront
+Amazon Cloudwatch
+Amazon Cognito
+Amazon Dynamodb
+Amazon Ebs
+Amazon Ec2
+Amazon Ec2 Container Service
+Amazon Eks
+Amazon Elasticache
+Amazon Elasticsearch Service
+Amazon Emr
+Amazon Kinesis
+Amazon Kinesis Firehose
+Amazon Machine Learning
+Amazon Rds
+Amazon Rds For Aurora
+Amazon Rds For Postgresql
+Amazon Redshift
+Amazon Route 53
+Amazon S3
+Amazon Ses
+Amazon Sns
+Amazon Sqs
+Amazon Vpc
+Amazon Web Services
+Anomaly Detection
+Apache Maven
+Automated Reasoning
+Automated Theorem Proving
+Automatic Programming
+Automatic Summarization
+Automatic Taxonomy Induction
+Automaton
+Aws Cloudformation
+Azure
+Azure Security
+Azure Machine Learning
+Backend Tech
+Business Analysis
+Budgeting
+Business Strategy
+Business Process Improvement
+Business Services
+Business Planning
+Branding
+Business Intelligence
+BI
+Business Process
+Bitbucket
+CAD
+computer-aided design
+Customer Service
+Communication
+Company Research
+Change Management
+Coaching
+Construction
+Customer Relationship Management
+Contractual Agreements
+Customer Satisfaction
+Contract Negotiation
+Creativity
+Computer Vision
+CVS (Concurrent Versions System)
+Content Management Systems (CMS)
+CMS
+Copywriting
+Content creation
+Calculus
+Cognitive Science
+CUDA
+Database Administration
+Databases SQL
+Design
+Databases
+Data Analysis
+Digital Marketing
+Decision Making
+Digital Media
+Documentation
+Digital media
+Data Modeling and Evaluation
+Data Science
+Drawing
+Development Tools
+DNS Management
+Docker Machine
+Document Management System
+Domain Knowledge
+Domain Model
+Domain Registration
+DeepFace
+DevOps
+Event Planning
+Editing
+Entrepreneurship
+Email
+Employee Benefits Design
+Energy
+Electronics
+Enterprise Software
+Enterprise Systems
+Ecommerce
+Finance
+Financial Analysis
+Fundraising
+Facility Management
+Food and Beverage
+Forecasting
+Facilitation
+Facial recognition
+Financial Risk
+Financial Reporting
+Government Agencies
+Grocery
+Graphic Design
+Gas
+Graphics
+Grant Writing
+General Ledger
+Git
+GitHub
+GitTalk
+HTML
+HMI
+Heavy Equipment
+Hospitals
+Higher Education
+History
+Healthcare
+Hospitality Industry
+Helping Clients Succeed
+Healthcare Management
+HTML5
+Image segmentation
+Image restoration
+Information Technology
+Interpersonal Skills
+Information Systems
+Internal Audit
+Integration
+Insurance
+Investments
+Interviewing
+Invoicing
+Integrated Marketing
+Information Integration
+Information Management
+Information Model
+Information Overload
+Information Retrieval
+Information Retrieval Applications
+Information Retrieval Query Language
+Java
+Javascript
+JQuery
+Journalism
+Job Scanning
+Job Description Development
+Journals
+Joint Ventures
+Key Performance Indicators
+K12 Education
+Knowledge Management
+Kanban
+Keras
+Key Account Development
+Knowledge Sharing
+Knowledge Base
+Knowledge on quality and reliability
+Leadership
+Logistics Management
+Local Marketing
+Legal Issues
+Linux
+Leadership Development
+Laboratory Skills
+Leadership
+Lean Manufacturing
+Litigation
+Legal Writing
+MS Software
+Microsoft software
+Microsoft Excel
+Microsoft Powerpoint
+Microsoft Word
+MATLAB
+MacOS
+Manufacturing Engineering
+Medical Image Segmentation
+MapReduce and Hadoop
+Machine Learning
+Machine Learning Algorithms:
+Naïve Bayes Classifier
+K Means Clustering
+Support Vector Machine
+Apriori Algorithm
+Linear Regression
+Logistic Regression
+Decision Trees
+Random Forests
+Motion analysis
+Mathematics
+Mathematical Skills
+Mathematics and mathematical models
+Mechanical Design
+Mechanical Systems
+MySQL
+Microsoft (MS) Team Foundation Server
+Mechanical Engineering
+Negotiation
+Nonprofit Organizations
+New Business Opportunities
+Newsletters
+New Hires
+Network Communications
+Network Administration
+Network Systems
+Network Attached Storage
+Nutrition
+Neural Network Architectures
+Natural Language Processing
+NLP
+Object recognition
+Order Fulfillment
+Online Advertising
+Operating Systems
+Organizational Development
+Oracle
+Oracle RDBMS
+Operations Management
+Organizational Structure
+Office Administration
+Oracle Database
+Outsourcing
+OpenCV
+Performance Tuning
+PLC
+PyTorch
+Physics
+Parallel and distributed 
+Public Speaking
+Project Planning
+Program Management
+Prototyping
+Probability & Statistics
+Public Relations
+Public Policy
+Problem Solving
+Partnerships
+Presentations
+Pricing Strategy
+Python
+Qualitative Research
+Queues
+QuickBooks
+Quality System
+Quotations
+Quality Auditing
+Quantitative Research
+Qualifying Prospects
+Quality Improvement
+Query Writing
+R
+Ruby
+Research
+Retail
+Recruiting
+Real Estate
+Reviews
+Responsive Web Designing
+Regulations
+Residential Homes
+Records
+Robotics
+Reinforcement Learning
+Microcontrollers, or MCUs
+Real-time Operating Systems
+RTOS
+Device drivers, including Linux
+Linux operating system
+Communication Protocols
+Interface buses like I2C and SPI
+GNU Project debugger
+Microprocessor technology
+Application software engineer 
+Device Drivers
+Software tester
+Driver Development
+GPS/AGPS Developer
+RF Communications Protocol
+WiFi Communications Protocol 
+Embedded Hardware
+Board Design Engineer
+Board (hardware) validation
+Product Application Engineer (PAE)
+Marketing and Sales
+Marketing executive • Sales executive
+Strategic Planning
+Social Media
+Staff Development
+Sales Management
+Strategy
+Scene construction
+Satellite Image Processing
+Supervisory Skills
+Search Engine Optimization (SEO)
+SEO
+Social media platforms
+Software Testing
+SQL
+Software development
+Software Documentation
+Soft Skills
+Solidworks
+Solid Principles
+Simulink
+Schedules
+SCADA
+Self-driving cars
+Training
+Teamwork
+Team Leadership
+Teaching
+Team Building
+Testing
+Time Management
+Team Management
+Troubleshooting
+Telecommunications
+Unix
+User Interface Design
+User Experience
+Underwriting
+Department of Defense
+Unified Modeling Language
+University Teaching
+User Acceptance Testing
+Vendor Management
+Version Control
+Virtual Machine
+Virtual machines and cloud environment
+Virtual Machine Management
+Virtual Machine Platforms & Containers
+Video Editing
+Video Production
+Volunteering
+Validation
+Vendors
+Volunteer Management
+Video Editing
+Visual Merchandising
+Windows
+Writing
+Web Design
+Web Development
+Windows Server
+Workshops
+Web Applications
+Water Resource Management
+WordPress
+Wireless Technologies
+YOLO
+Basketball
+Football
+Baseball
+Swimming
+Volleyball
+Soccer
+Gymnastics
+Golf
+Diving
+Payment Processing
+Customer Relationship
+Hardware Skills
+System administration
+network configuration 
+software installation
+security
+Cisco
+techincal support
+updates configuration
+project management
+Web development
+open source
+data structures
+Tableau
+Keynote
+Apache
+MySQL
+SAS
+JSON
+data mining
+SQLite
+RapidMiner
+Network configuration,
+security
+network automation
+Cloud Computing
+MS Excel & Access (specifically functions, formulas, filters, queries, and pivot tables)
+MS SQL Server
+Oracle RDBMS
+MySQL
+FileMaker
+Amazon RDS
+Amazon SimpleDB
+Couchbase
+PhpMyAdmin
+DbVisualizer
+Informix
+Informix Dynamic Servers
+4D
+Cloudera
+Hadoop HDFS
+Robomongo
+MariaDB
+Sequel PRO
+Toad
+SQL Developer
+OrientDB
+CouchDB
+Redis
+Neo4j
+MongoDB
+PostgreSQL
+SQLite
+ADABAS
+IBM DB2
+Teradata
+SAP 
+Sybase ASE
+Microsoft SQL Server 
+Oracle Database 
+PL/SQL 
+Linux 
+Oracle RAC 
+RMAN 
+MySQL 
+ITIL 
+PostgreSQL
+C/C++
+C#
+Java
+JavaScript 
+Perl
+PHP
+Python
+Swift
+Go
+Product roadmaps
+User experience design
+Programming skills
+Product lifecycle management
+QA testing 
+Requirements gathering
+Coding
+Debugging 
+Implementation
+Testing
+Configuration
+IOS/Android
+Programming languages
+Cloud Security
+Security
+Modeling
+Google Analytics
+Marketing analytics tools
+TensorFlow
+Linear Algebra
+Beanstalk
+Perforce
